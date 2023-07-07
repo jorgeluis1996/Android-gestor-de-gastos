@@ -3,6 +3,8 @@ Tenemos una base de datos subida en la nuve la cual hacemos conexion y nos permi
 
 a continuacion una muestra por el recorrido de la app
 
-[![Alt text](https://img.youtube.com/vi/watch?v=Dl7j440AXVw/0.jpg)](https://www.youtube.com/watch?v=watch?v=Dl7j440AXVw)
+[![Alt text](https://img.youtube.com/vi/Dl7j440AXVw/0.jpg)](https://www.youtube.com/watch?v=Dl7j440AXVw)
 
 https://www.youtube.com/watch?v=Dl7j440AXVw
+
+https://youtu.be/Dl7j440AXVw
