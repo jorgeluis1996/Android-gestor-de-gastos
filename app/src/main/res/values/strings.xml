@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LiquorBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_caja">CajaActivity</string>
+
+    <string name="tab_registro">Registro</string>
+    <string name="tab_reporte">Reporte</string>
+    <string name="tab_Gastos">Gastos</string>
+    <string name="tab_Imagen">imagen</string>
+
+</resources>

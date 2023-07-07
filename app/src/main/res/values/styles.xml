@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="super_titulo">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">32dp</item>
+    </style>
+
+    <style name="boton_normal">
+        <item name="android:backgroundTint">@null</item>
+        <item name="background">@drawable/fondo_boton</item>
+    </style>
+
+    <style name="mi_radio_button">
+        <item name="android:button">@null</item>
+    </style>
+
+</resources>
